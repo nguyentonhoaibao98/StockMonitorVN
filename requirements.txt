@@ -1,3 +1,0 @@
-GoogleNews
-newspaper3k
-pandas
